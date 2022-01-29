@@ -72,3 +72,20 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Custom
+# Assets
+Content/StarterContent/*
+Content/Mannequin/*
+Content/SuperheroFlight/*
+Content/ProMainMenu/*
+Content/CyberWeaponSet2/*
+Content/Is/*
+Content/Gears_FX_Pack/*
+
+# Plugins
+Plugins/VRM4U/*
+Plugins/Runtime/CriWare/*
+
+#Developments
+Content/Developers/*
